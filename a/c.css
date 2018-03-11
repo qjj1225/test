@@ -1,0 +1,10 @@
+.box{
+    width:100%;
+    background:black;
+    height:200px;
+}
+.child{
+    width:100%;
+    background:black;
+    height:200px;
+}
